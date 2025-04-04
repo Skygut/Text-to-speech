@@ -20,4 +20,6 @@ pip install gradio
 Запускаємо python main.py
 та переходимо на посилання в терміналі:
 
-* Running on local URL:  http://127.0.0.1:7860
+* Running on local URL:  http://00000000000
+
+![alt text](image-1.png)
