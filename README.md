@@ -4,9 +4,6 @@
 
 # https://www.youtube.com/watch?v=EyzRixV8s54
 
-
-# https://github.com/coqui-ai/TTS?tab=readme-ov-file
-
 # https://github.com/coqui-ai/TTS?tab=readme-ov-file
 
 
